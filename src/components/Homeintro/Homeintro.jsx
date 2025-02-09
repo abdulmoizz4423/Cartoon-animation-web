@@ -12,7 +12,7 @@ const Homeintro = (prop) => {
             <div className="row">
                 <div className="col-lg-7">
                      <h1>
-                        ABDUL MOIZ <span>IN SWIFTBOOST</span>
+                        ABDUL MOIZ <span>IN MONACO</span>
                      </h1>
                      <div className="homeintrobtns">
                         <button className='startboostbtn'>
